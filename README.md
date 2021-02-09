@@ -1,6 +1,6 @@
-# sentry_implementation_flutter
+# sentry-implementation-flutter
 
-sentry_implementation_demo_flutter
+sentry-implementation-demo-flutter
 
 ## Getting Started
 
